@@ -16,4 +16,10 @@ Try some Moocs
 - [Robotics Specialization](https://www.coursera.org/specializations/robotics) 
 - [Computer Vision](https://in.udacity.com/course/introduction-to-computer-vision--ud810)
 
-Will add more later!
+Softwares:
+
+- Unity
+- Solidworks, AutoCAD, Maya
+- MATLAB / SimuLink
+- Gazebos
+- ROS
