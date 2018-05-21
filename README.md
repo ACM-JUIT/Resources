@@ -23,3 +23,9 @@ Softwares:
 - MATLAB / SimuLink
 - Gazebos
 - ROS
+
+Or Maybe you would like to try hands on Competitive coding:
+
+- [Hackerrank](https://www.hackerrank.com)
+- [Codechef](https://www.codechef.com)
+- [Spoj](https://www.spoj.com)
